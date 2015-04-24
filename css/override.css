@@ -1,0 +1,58 @@
+nav {
+  background: white;
+  color: #c0392b;
+}
+
+nav li a {
+  color: #c0392b;
+}
+
+#full-width {
+  padding: 0;
+}
+
+#top-content {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 50px;
+  background: #c0392b;
+}
+
+#top-content .tagline {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+#top-content .image {
+  padding-top: 50px;
+}
+
+#top-content .image img {
+}
+
+#top-content .icon {
+  text-align: center;
+  padding-top: 50px;
+  color: white;
+  font-size: 150px;
+}
+
+.row#pad {
+  padding: 50px;
+  padding-top: 0;
+}
+
+.row#pad .col {
+  text-align: center;
+}
+
+#small {
+  width: 18px;
+  height: 18px;
+}
+
+#small .spinner-blue-only {
+  border-color: rgba(0, 0, 0, 0.87);
+}
